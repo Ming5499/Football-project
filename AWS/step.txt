@@ -1,0 +1,7 @@
+1. create relational data model
+2. connect to aws athena and query data
+3. do etl job in python
+4. save result to aws s3
+5. glue deployment
+6. build tables in redshift
+7. copy data from s3 to redshift
